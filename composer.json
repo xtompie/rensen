@@ -1,0 +1,15 @@
+{
+    "name": "xtompie/rensen",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xtompie\\Rensen\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tomasz Pielczyk",
+            "email": "tomasz.pielczyk@gmail.com"
+        }
+    ]
+}
