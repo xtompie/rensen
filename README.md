@@ -55,4 +55,3 @@ $a(fn() => 10);
 ## Why Rensen?
 
 Rensen brings a reactive programming model to PHP. Inspired by modern frontend frameworks, it enables automatic propagation of changes in a simple and efficient way.
-
